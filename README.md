@@ -2,6 +2,12 @@
 
 Collection of network tools
 
+```
+group-net-tools/
+├── net-describe.py
+└── README.md
+```
+
 ### net-describe.py
 ```
 usage: net-describe.py [-h] [-list] [-subnet SUBNET] net
