@@ -1,4 +1,6 @@
-# net-tools
+# group-net-tools
+
+Collection of network tools
 
 ### net-describe.py
 ```
